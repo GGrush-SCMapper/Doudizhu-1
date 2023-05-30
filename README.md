@@ -1,2 +1,5 @@
-# Doudizhu-1
-A wonderful StarCraft map
+# 斗地主1代：休闲养生版
+
+* 定位：休闲养生，不适合用于竞技
+* 玩法：宏图VS贫矿
+* 人数：1v3 或 2v6
